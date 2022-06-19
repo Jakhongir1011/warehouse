@@ -1,4 +1,4 @@
-package com.example.warehouseuz.Entity.template;
+package com.example.appwarehouse.Entity.template;
 
 
 import lombok.Data;

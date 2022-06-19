@@ -1,8 +1,5 @@
-package com.example.warehouseuz.Entity;
+package com.example.appwarehouse.Entity;
 
-import com.example.warehouseuz.Entity.Currency;
-import com.example.warehouseuz.Entity.Supplier;
-import com.example.warehouseuz.Entity.Warehouse;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

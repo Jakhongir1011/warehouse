@@ -1,7 +1,7 @@
-package com.example.warehouseuz.Entity;
+package com.example.appwarehouse.Entity;
 
 
-import com.example.warehouseuz.Entity.template.AbsEntity;
+import com.example.appwarehouse.Entity.template.AbsEntity;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 

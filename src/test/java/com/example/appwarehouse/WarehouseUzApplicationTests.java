@@ -1,4 +1,4 @@
-package com.example.warehouseuz;
+package com.example.appwarehouse;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

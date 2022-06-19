@@ -1,6 +1,6 @@
-package com.example.warehouseuz.Entity;
+package com.example.appwarehouse.Entity;
 
-import com.example.warehouseuz.Entity.template.AbsEntity;
+import com.example.appwarehouse.Entity.template.AbsEntity;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
@@ -14,7 +14,7 @@ import javax.persistence.Entity;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-public class Client extends AbsEntity {
+public class Supplier extends AbsEntity {
 
     @Column(unique = true, nullable = false)
     private String phoneNumber;

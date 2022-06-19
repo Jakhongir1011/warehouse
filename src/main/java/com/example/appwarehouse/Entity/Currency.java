@@ -1,10 +1,8 @@
-package com.example.warehouseuz.Entity;
+package com.example.appwarehouse.Entity;
 
-import com.example.warehouseuz.Entity.template.AbsEntity;
-import lombok.AllArgsConstructor;
+import com.example.appwarehouse.Entity.template.AbsEntity;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import lombok.NoArgsConstructor;
 
 import javax.persistence.Entity;
 

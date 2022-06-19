@@ -1,4 +1,4 @@
-package com.example.warehouseuz.Entity;
+package com.example.appwarehouse.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
